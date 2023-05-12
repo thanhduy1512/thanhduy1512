@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/havaem/havaem/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thanhduy1512/thanhduy1512/output/snake.svg" alt="Snake animation" />
 </div>
