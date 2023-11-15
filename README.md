@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/thanhduy1512/thanhduy1512/output/snake.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/thanhduy1512/thanhduy1512/output/snake.svg" alt="Snake animation" />
 </div>
